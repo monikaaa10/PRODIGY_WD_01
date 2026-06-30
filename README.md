@@ -1,32 +1,28 @@
 # PRODIGY_WD_01
 
-## Responsive Landing Page with Interactive Navigation Menu
+## Interactive Navigation Menu
 
-### 📌 Task Description
-Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and remain visible on all pages.
+This project was completed as part of the **Prodigy InfoTech Web Development Internship**.
 
-### 🚀 Features
-- Fixed navigation bar
-- Changes background color on scroll
-- Hover effects on navigation items
-- Responsive design
-- Built using HTML, CSS, and JavaScript
+### Task
+Create an interactive navigation menu that:
+- Remains fixed at the top of the page.
+- Changes its style when the page is scrolled.
+- Applies hover effects to navigation menu items.
 
-### 🛠️ Technologies Used
+### Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-### 📂 Project Structure
+### Project Structure
 ```
 PRODIGY_WD_01/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
 
-### 👩‍💻 Author
-Monika
-
-### 📚 Internship
-Prodigy InfoTech - Web Development Internship
+### Author
+**Monika**
