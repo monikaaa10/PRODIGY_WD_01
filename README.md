@@ -24,10 +24,6 @@ PRODIGY_WD_01/
 │── style.css
 │── script.js
 │── README.md
-```
-
-### 📸 Screenshot
-(Add a screenshot of your project here if you'd like.)
 
 ### 👩‍💻 Author
 Monika
